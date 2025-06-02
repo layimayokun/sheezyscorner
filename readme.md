@@ -45,3 +45,9 @@ Who are the top 10 customers generating the most revenue? How does revenue distr
 Question answered:
 Which countries (excluding UK) generate the highest revenue and how does their quantity sold compare?
 ![Top Countries with Most Revenue](top countries with most revenue.png)
+
+📁 Dataset
+The dataset used for this analysis is available on Google Sheets.
+You can view or download it using the link below:
+
+🔗 Online Retail 2011 Dataset
